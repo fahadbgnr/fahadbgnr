@@ -5,6 +5,7 @@
   </a>
 </p>
 
+
 <h1 align="center">Hi 👋, I'm Sheikh Fahad</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
@@ -48,4 +49,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadbgnr&show_icons=true&locale=en" alt="fahadbgnr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadbgnr&" alt="fahadbgnr" /></p>
+
